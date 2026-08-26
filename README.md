@@ -1,5 +1,5 @@
 # Case Acceptance Report
-SQL · Excel · Healthcare Analytics · Business Intelligence
+### SQL · Excel · Healthcare Analytics · Business Intelligence
 
 ## Overview
 
